@@ -1,0 +1,37 @@
+Ariel Market
+
+Your cart number: 62e04241a5ed29b10429fc60
+
+Items in your cart: 
+
+Apple---1x---5.9$
+Banana---1x---7.9$
+Coca-Cola---1x---4.5$
+Strawberry---1x---5.5$
+Blueberry---1x---6.5$
+Ice-cream---1x---9.5$
+Hamburger---1x---13$
+Sausages---1x---8.9$
+Pringels---1x---12$
+Pizza---1x---9.2$
+Bell Pepper---1x---3$
+Graps---1x---3.5$
+Milk---1x---3.58$
+Tomato---1x---2.85$
+Cucumber---1x---4$
+Pepsi---1x---4.5$
+Water---1x---2.5$
+Cheese---1x---13.45$
+Eggs---1x---10$
+Bread---1x---9.8$
+Steak---1x---28.6$
+Butter---1x---13.6$
+Bamba---1x---3.5$
+Begels---1x---4$
+Snickers---1x---2.5$
+Bisli---1x---3.5$
+Chips---1x---11.85$
+Pastrami---1x---5.3$
+
+
+Total price:212.92999999999998$

@@ -1,0 +1,27 @@
+Ariel Market
+
+Your cart number: 62e141ffea248f253d3ebb1a
+
+Items in your cart: 
+
+Banana---1x---7.9$
+Apple---1x---5.9$
+Milk---1x---3.58$
+Blueberry---1x---6.5$
+Water---1x---2.5$
+Bread---1x---9.8$
+Steak---100x---2860$
+Butter---1x---13.6$
+Bamba---1x---3.5$
+Bisli---1x---3.5$
+Ice-cream---1x---9.5$
+Chips---1x---11.85$
+Begels---1x---4$
+Snickers---1x---2.5$
+Hamburger---1x---13$
+Pringels---1x---12$
+Sausages---1x---8.9$
+Pastrami---1x---5.3$
+
+
+Total price:2983.83$

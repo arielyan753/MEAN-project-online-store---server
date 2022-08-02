@@ -1,0 +1,32 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "Full Stack System",
+    "scripts": {
+        "start": "nodemon --exec ts-node src/app.ts"
+    },
+    "author": "The amazing class of 4578-70",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "express-fileupload": "^1.4.0",
+        "jsonwebtoken": "^8.5.1",
+        "jwt-decode": "^3.1.2",
+        "mongoose": "^6.3.4",
+        "uuid": "^8.3.2"
+    },
+    "devDependencies": {
+        "@types/cors": "^2.8.12",
+        "@types/express": "^4.17.13",
+        "@types/express-fileupload": "^1.2.2",
+        "@types/jsonwebtoken": "^8.5.8",
+        "@types/jwt-decode": "^3.1.0",
+        "@types/mongoose": "^5.11.97",
+        "@types/node": "^17.0.35",
+        "@types/uuid": "^8.3.4"
+    }
+}
